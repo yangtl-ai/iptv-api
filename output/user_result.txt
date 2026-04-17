@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2026-04-15 19:07:36,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
+2026-04-17 19:05:14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$订阅源
 
 📺央视频道,#genre#
+CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$订阅源
+CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=4$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=6$订阅源
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=7$订阅源
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=8$订阅源
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=9$订阅源
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=1$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=2$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=3$订阅源
@@ -17,7 +18,6 @@ CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=4$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=5$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=6$订阅源
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=7$订阅源
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=1$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=2$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3$订阅源
@@ -26,6 +26,7 @@ CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=5$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=6$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7$订阅源
 CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$订阅源
+CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=1$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=2$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3$订阅源
@@ -33,7 +34,6 @@ CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=4$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=5$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=6$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=7$订阅源
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=8$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=1$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=2$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=3$订阅源
@@ -47,9 +47,9 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
-CCTV-5+,http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://1.197.204.20:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-5+,http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=1$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=2$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=3$订阅源
@@ -57,7 +57,6 @@ CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=4$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=5$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=6$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=7$订阅源
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=8$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=1$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=2$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=3$订阅源
@@ -74,6 +73,7 @@ CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=5$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=6$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=7$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=8$订阅源
+CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=1$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=2$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=3$订阅源
@@ -81,7 +81,6 @@ CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=4$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=5$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=6$订阅源
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=7$订阅源
-CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=8$订阅源
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=1$订阅源
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=2$订阅源
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=3$订阅源
@@ -106,6 +105,7 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=5$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=6$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=7$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8$订阅源
+CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=1$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=2$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=3$订阅源
@@ -113,7 +113,7 @@ CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=4$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=5$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=6$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=7$订阅源
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=8$订阅源
+CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=1$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=2$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=3$订阅源
@@ -121,7 +121,7 @@ CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=4$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=5$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=6$订阅源
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
-CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源
+CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=1$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=2$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=3$订阅源
@@ -129,15 +129,14 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=4$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=5$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=6$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=8$订阅源
-CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8$订阅源
+CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=1$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16%284K%29&line=1$订阅源
-CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
-CCTV-16,http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009$订阅源
-CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$订阅源
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3$订阅源
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=2$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=3$订阅源
@@ -194,8 +193,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5$订阅源
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8$订阅源
-黑龙江卫视,http://154.37.212.176/ysp.php?pid=600002498&id=2029797003$订阅源
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$订阅源
+黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -203,7 +202,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8$订阅源
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$订阅源
 安徽卫视,http://113.241.133.180:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-安徽卫视,http://1.197.204.20:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -234,7 +232,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=3$订阅源
 甘肃卫视,http://23.237.228.134/live8/gansu.m3u8$订阅源
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$订阅源
-甘肃卫视,http://1.197.204.20:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1$订阅源
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -250,7 +247,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8$订阅源
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8$订阅源
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$订阅源
-贵州卫视,http://1.197.204.20:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -266,14 +262,14 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 河北卫视,http://23.237.228.134/live8/hebei.m3u8$订阅源
 河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=5$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=6$订阅源
-河南卫视,http://23.237.228.134/live6/henan.m3u8$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -305,7 +301,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$订阅源
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqca/lnwshd.m3u8?auth=test20251009$订阅源
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8$订阅源
-辽宁卫视,http://1.197.204.20:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+辽宁卫视,http://154.219.125.138:5050/ysp?id=2024171303&pid=600002505&q=fhd$订阅源
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1$订阅源
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=2$订阅源
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -313,14 +309,12 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8$订阅源
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
-内蒙古卫视,http://1.197.204.20:85/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss$订阅源
 宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=1$订阅源
 宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2$订阅源
 宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=3$订阅源
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub$订阅源
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss$订阅源
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140$订阅源
-宁夏卫视,http://1.197.204.20:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 宁夏卫视,http://154.219.125.138:5050/ysp?id=2025608503&pid=600190737&q=fhd$订阅源
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=1$订阅源
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -368,8 +362,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=3$订阅源
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8$订阅源
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$订阅源
-深圳卫视,http://113.241.133.180:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8$订阅源
+深圳卫视,http://113.241.133.180:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=1$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -381,7 +375,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8$订阅源
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$订阅源
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009$订阅源
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
+天津卫视,http://183.220.107.138:4022/rtp/239.11.0.123:5140$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=1$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -389,20 +383,20 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://183.220.107.138:4022/rtp/239.11.0.53:5140$订阅源
 西藏卫视,http://107.150.60.122/live/xzws.m3u8$订阅源
-西藏卫视,http://1.197.204.20:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+西藏卫视,http://154.219.125.138:5050/ysp?id=2025558003&pid=600190403&q=fhd$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=1$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=2$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=3$订阅源
-新疆卫视,http://154.37.212.176/ysp.php?pid=600152138&id=2019927403$订阅源
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://183.220.107.138:4022/rtp/239.11.0.58:5140$订阅源
+新疆卫视,http://154.219.125.138:5050/ysp?id=2019927403&pid=600152138&q=fhd$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8$订阅源
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
