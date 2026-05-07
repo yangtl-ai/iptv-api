@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-05 19:22:42,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a$订阅源
+2026-05-07 19:54:44,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a$订阅源
@@ -190,6 +190,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=61e4fd9bf58ef5793a154534fc3b69a6905900f2133acd6c3fe723e7b4520ad20ebd351ceb44d42a3a09fa5e7e402be1cec3e5c93b1a07ac90681ef873a367d7cb68040b3be9d7873347efa755$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11$订阅源
+海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
